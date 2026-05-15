@@ -85,4 +85,4 @@ Example insights:
 
 The model is deployed using Streamlit.
 
-🔗 Live App:
+🔗 Live App: https://predictive-project-grp-3-dworfudo6xj5t8qizby8du.streamlit.app/
