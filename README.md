@@ -85,4 +85,8 @@ Example insights:
 
 The model is deployed using Streamlit.
 
+<img width="979" height="1019" alt="Screenshot 2026-05-16 121813" src="https://github.com/user-attachments/assets/7aced6c2-f973-42fe-aee6-9959056b5e3a" />
+<img width="953" height="985" alt="Screenshot 2026-05-16 121925" src="https://github.com/user-attachments/assets/cacf86e1-df89-4656-84dc-484b4adb5d4f" />
+
+
 🔗 Live App: https://predictive-project-grp-3-dworfudo6xj5t8qizby8du.streamlit.app/
